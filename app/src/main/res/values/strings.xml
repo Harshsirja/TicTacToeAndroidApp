@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="welcomeText">Welcome To Tic Tac Toe</string>
+    <string name="grid">MainGridViewImage</string>
+    <string name="turnx">X\'s Turn</string>
+    <string name="box">box</string>
+    <string name="initialStatus">X\'s Turn - Tap to Play</string>
+    <string name="turn0">0\'s Turn</string>
+    <string name="reset">Reset</string>
+    <string name="winner">Winner is </string>
+</resources>
